@@ -1,0 +1,14 @@
+Lane,Special,150
+Lane,Right,742
+Lane,Left,432
+Lane,Down,592
+Special,SpeedUp,100
+Left,Normal,120
+Left,Normal,140
+Left,Normal,160
+Left,Hold,180
+Special,SlowDown,190
+Left,Normal,300
+Left,Normal,320
+Left,Normal,340
+Left,Hold,360

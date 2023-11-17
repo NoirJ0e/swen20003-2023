@@ -1,0 +1,16 @@
+Lane,Special,150
+Lane,Right,742
+Lane,Left,432
+Lane,Down,592
+Special,DoubleScore,00
+Special,DoubleScore,60
+Special,DoubleScore,120
+Left,Normal,180
+Right,Normal,200
+Down,Normal,300
+Down,Hold,400
+Right,Normal,600
+Left,Normal,700
+Right,BombNote,800
+Right,Normal,900
+Right,Hold,1000
